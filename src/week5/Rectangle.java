@@ -32,6 +32,5 @@ public class Rectangle {
 	public double getArea() {
 		return area;
 	}
-	
 
 }
