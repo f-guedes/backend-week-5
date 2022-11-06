@@ -84,8 +84,7 @@ public class Student {
 		if (gradeLevel > 0 && gradeLevel < 13) {
 		this.gradeLevel = gradeLevel;
 		}
-	}
-		
+	}	
 	
 	public int getGradeLevel() {
 		return gradeLevel;
